@@ -29,10 +29,11 @@
 ---
 ## **Projects**
 
-
 ---
+<!--
 ## **Processes**
 
 
 ---
+-->
 ## **Weekly Goals**
