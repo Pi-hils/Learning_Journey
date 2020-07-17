@@ -1,4 +1,4 @@
-#Week 1
+# Week 1
 
 _A weekly journal to document my progress and the work I am doing to achieve my goals._
 
@@ -9,18 +9,22 @@ _A weekly journal to document my progress and the work I am doing to achieve my 
 ## Goals
 
 1. Test-drive a simple program using objects and methods.
-    -[Test driving 1 project]
+
+    -Test driving 1 project
 
 2. Pair using the driver-navigator style.
-    -[Boris Bikes]
-    (https://github.com/Pi-hils/Boris_Bikes)
+
+    -[Boris Bikes](https://github.com/Pi-hils/Boris_Bikes)
 
 3.  Follow an effective debugging process.
+
     -[Debugging workshop](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
     
 
 4. Describe some basic OO principles -Encapsulation, SRP.
+
     -[Airport](https://github.com/Pi-hils/airport_challenge)
+
     -[Boris Bikes](https://github.com/Pi-hils/Boris_Bikes)
 
 ---
@@ -29,7 +33,7 @@ _A weekly journal to document my progress and the work I am doing to achieve my 
 _Thins I've learnt or improved, and links to examples._
 
 - **Concrete things** (e.g written a test or set up rspec).
-    -Constructing a class
+    -Constructing a class.
     
 
 - **Concepts** 
@@ -37,6 +41,7 @@ _Thins I've learnt or improved, and links to examples._
     - Pairing with multiple people and building rapport to complete tasks.
 
 - **Processes** (i.e debugging or problem breakdown -> TDD)
+
     -[Debugging](https://github.com/Pi-hils/Debugging)
  
     -[Fundamental understanding of Ojbect Oriented Code 1, Encapsulation and Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
