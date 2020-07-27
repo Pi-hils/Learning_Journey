@@ -47,4 +47,6 @@ _Thins I've learnt or improved, and links to examples._
     -[Fundamental understanding of Ojbect Oriented Code 1, Encapsulation and Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
 
 ---
+
+
 [Weekly notes]()

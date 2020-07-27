@@ -3,7 +3,7 @@
 The World Wide Web is made up of 2 main components which are:
 1. Resources (mainly stored on **server**, e.g google homepage)
 
-_Server component provides service to one or more clients, whom have initiated a request for such service. Servers are classified by the services they provode, e.g a **web server** serves **web pages** and a **file server**  serves **computer files**._
+_Server component provides service to one or more clients, whom have initiated a request for such service. Servers are classified by the services they provide, e.g a **web server** serves **web pages** and a **file server**  serves **computer files**._
 
 2. Entities that ask those resources (usually the **clients**, e.g _Chrome, Safari_).
 

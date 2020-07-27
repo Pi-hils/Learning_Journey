@@ -1,5 +1,5 @@
 # Process Modelling, applied to HTTP request/response cycle.
-
+---
 What is a process?
 1. Steps to take to achieve something
 2. Something with a start and an end
@@ -23,9 +23,16 @@ Learning Objectives
 - Use process modelling to further understand HTTP requests and responses.
 
 Why model a process?
-- It's easier to iterate on a process model tahn the code taht enacts the process
-- It's great way to communicate and discuss a process with another person
+- It's easier to iterate on a process model than the code that enacts the process.
+- It's a great way to communicate and discuss a process with another person
 Much easier to add details to a process model than to add it to code.
+
+M- Model- Object, encapsulate the data in our database, treated like objects.
+
+V- View- presentation layers, interface, what the user sees. It includes the HTML, CSS.
+
+C- Controller- process and response to events ie, user actions, Controls what happens. Makes the decisions.
+---
 
 ### Some Websites for modelling
 [Diagram.codes](https://www.diagram.codes/)
