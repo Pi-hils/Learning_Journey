@@ -1,12 +1,13 @@
 # Week 4
 
-_My weekly journal to track my learning and development during my time at Makers Academy._
+My weekly journal to track my learning and development during my time at Makers Academy.
 ---
 Kickoff of the week
 
+---
 Week 4 will be about learning to build web apps that use a database. We'll reinforce the skills and concepts from week 3, and learn some new ones.
 ---
-## Week4 Goals
+## Week 4 Goals
 - Build a simple web app with a database
 - Follow an effective debugging process for database applications
 - Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
@@ -28,7 +29,7 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 - Web app deployment
 
 
-## Week 4 skills:
+## Week skills:
 - Designing data relationships using an object-relational mapper
 - Designing a database schema
 - Manipulating data using the CRUD cycle
@@ -37,11 +38,11 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 - Creating user stories
 
 ## Preparation for the week
-- Set up SQL from terminal - [follow instructions](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md
+- Set up SQL from terminal - [follow instructions](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md)
 
 ## What I found challenging
 
 
-[Footnote](https://github.com/makersacademy/course/blob/master/bookmark_manager/03_viewing_bookmarks.md)
-- RESTful 
-- Class and Instance
+## Footnote
+- [RESTful](https://github.com/makersacademy/course/blob/master/pills/rest.md)
+- [Class and Instance Class](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/)

@@ -28,6 +28,12 @@
     
 ---
 ## **Projects**
+- [Bookmark Manager](https://github.com/Pi-hils/Bookmark_Manager)
+- [Battle Challenge](https://github.com/Pi-hils/Battle_Challenge)
+- [Oyster Card](https://github.com/Pi-hils/Oyster_Card2)
+- [Takeaway Challenge](https://github.com/Pi-hils/takeaway-challenge)
+- [RPS-Challenge](https://github.com/Pi-hils/rps-challenge-1)
+
 
 ---
 <!--
