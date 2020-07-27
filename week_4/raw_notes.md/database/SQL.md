@@ -28,14 +28,42 @@ How do databases work
 Among the top 5 DBMS services, 4 are Relational and 1 is non-relational.
 [![Image from Gyazo](https://i.gyazo.com/c9ba0b88fa26fb6d52075f1e5cc963e3.png)](https://gyazo.com/c9ba0b88fa26fb6d52075f1e5cc963e3)
 
-_Key word_
+---
+Creating a column
+[![Image from Gyazo](https://i.gyazo.com/95e31d8c5d402a1e64cb1c6c22e646fd.png)](https://gyazo.com/95e31d8c5d402a1e64cb1c6c22e646fd)
 
+_Footnote_
 *Decentralised Distributed newtwrok* : is when data can be stored across many computers that all have to coordinate with one another.
+*[SQL cheatsheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
+
+# Creating our 1st database.
+1. Psql has 2 groups of commands
+ - commands beginning with \ are psql-specific commands (e.g connecting to database \c)
+ - Everything else is SQL related (e.g SELECT * FROM...) so can be used with any SQL base Retional Databse.
+$\l
+
+2. Creating Database for Bookmark Manager
+CREATE DATABASE <filename>;
+[![Image from Gyazo](https://i.gyazo.com/ecb906696357e6b728fa58b275193803.png)](https://gyazo.com/ecb906696357e6b728fa58b275193803)
+
+3. Connecting to Database
+To connect to the newly created database, type in: =# \c <filename>;
+To inspect the existing list table, =# \dt
+_it should say NO RELATIONS as there are no data yet_
+[![Image from Gyazo](https://i.gyazo.com/1a2e8774562a1117be4089c91dd09256.png)](https://gyazo.com/1a2e8774562a1117be4089c91dd09256)
+
+4. Creating a bookmark table
+Data is collected in a table which has rows and columns.
+
+The structure and contents of these tables tell you everything about what that data is. Tables are a very fast way to look up data. To make them even faster, every row in a table is normally given a unique identifier: an 'ID'.
+Tables tend to map onto objects in our program that we want to persist. We're going to make a bookmarks table that will store bookmarks from our application. We can use [SQL](http://www.cheat-sheets.org/sites/sql.su/) commands from [psql](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
+
+> bookmark_manager=# CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
+
+[![Image from Gyazo](https://i.gyazo.com/c0607bb24ea3b75a6b6256d9bfca5b7e.png)](https://gyazo.com/c0607bb24ea3b75a6b6256d9bfca5b7e)
 
 
-
-
-
-what is SQL
-How does it work
+C.R.U.D 
+you will use SQL to create, read (query), update and delete (CRUD) data in the table you created, inside your PostgreSQL database.
+(https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/06.md)
 

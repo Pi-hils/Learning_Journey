@@ -11,6 +11,10 @@ Kickoff of the week
 - Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - Explain the MVC pattern
 
+---
+## Personal Goals
+1. GET & POST 
+2. Understanding Request annd response cycle
 
 ## What I found challenging
 - Understanding the use of global variable

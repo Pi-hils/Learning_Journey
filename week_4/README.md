@@ -40,3 +40,8 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 - Set up SQL from terminal - [follow instructions](https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/04_mac.md
 
 ## What I found challenging
+
+
+[Footnote](https://github.com/makersacademy/course/blob/master/bookmark_manager/03_viewing_bookmarks.md)
+- RESTful 
+- Class and Instance

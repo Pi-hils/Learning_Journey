@@ -20,3 +20,8 @@ Start off small, little by little, and hone in on the important information.
 - Create a directory called spec ("specifications")- this is where you will write your RSpec. Inside this folder, create a file and name with the ending _spec.rb.
 
 - In the _spec.rb, start by _describing_ the behaviour of the classes, modules & their methods. The _**describe**_ block always comes first in the spec file, followed by a class name.
+
+
+## [Intro to User story](https://github.com/makersacademy/course/blob/master/pills/user_stories.md)
+User stories comprise of three sections: _Stakeholder, Motivation and Task_
+[![Image from Gyazo](https://i.gyazo.com/04ad13cc7993af4e3ddf86282b085b1e.png)](https://gyazo.com/04ad13cc7993af4e3ddf86282b085b1e)

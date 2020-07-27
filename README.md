@@ -38,6 +38,10 @@
 ---
 -->
 ## **Weekly Goals**
+[Week 4](https://github.com/Pi-hils/Learning_Journey/tree/master/week_4)
+
+[Week 3](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_3)
+
 [Week 2](https://github.com/Pi-hils/Learning_Journey/tree/master/week_2)
 
 [Week 1](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_1)
