@@ -1,0 +1,24 @@
+# Week 3
+
+---
+_My weekly journal to track my learning and development during my time at Makers Academy._
+---
+Kickoff of the week 
+---
+## Weekly Goals
+- Build a simple web app
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- Explain the MVC pattern
+
+
+## What I found challenging
+- Understanding the use of global variable
+- How to link my feature test with my controller and when it was required, e.g in the [rps-challenge](https://github.com/Pi-hils/rps-challenge-1), I found it hard to get my app.rb to connect with my results page.
+
+
+## What I found enjoyable during the week
+- Learning about the web- it's a new and vital area.
+- Learning how to debug the web.
+- Customising pages to make it my own.
+- Working and learning from people within my cohort.
