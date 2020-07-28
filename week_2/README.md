@@ -20,7 +20,7 @@ Kickoff the week.
 2. Take notes on and implement dependency injection within my code.
 
 3. Create class diagram using [diagram.io](https://app.diagrams.net/). _[Practical:]_
-    - Class_diagram (https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
+    - [Class_diagram](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
     
     [![Image from Gyazo](https://i.gyazo.com/0bcca27d1f52894483b7ae245da44d3b.png)](https://gyazo.com/0bcca27d1f52894483b7ae245da44d3b)
 
