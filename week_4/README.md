@@ -1,10 +1,9 @@
 # Week 4
 
-My weekly journal to track my learning and development during my time at Makers Academy.
+_My weekly journal to track my learning and development during my time at Makers Academy_
 ---
 Kickoff of the week
 
----
 Week 4 will be about learning to build web apps that use a database. We'll reinforce the skills and concepts from week 3, and learn some new ones.
 ---
 ## Week 4 Goals
