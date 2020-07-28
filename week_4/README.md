@@ -14,12 +14,11 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 
 ## Personal Goals
 - Debug and refactor the [rps-challenge](https://github.com/Pi-hils/rps-challenge-1) from the weekend.
-- Understand what Database and how it interact with SQL. 
-[notes]()
-- 
+- Understand what Database is and how it interact with SQL. 
+- Agile Introduction
 
 ## New Concepts 
-- Introduction to Agile
+- Introduction to Agile - User story
 - Object-relational mappers
 - Relationships between data in a database
 - SQL, the database query language
@@ -43,6 +42,7 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 ## What I found challenging
 
 
-## Footnote
+## Helpful Resources
 - [RESTful](https://github.com/makersacademy/course/blob/master/pills/rest.md)
 - [Class and Instance Class](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/)
+- [Agile Modeling -Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
