@@ -15,6 +15,8 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 - Debug and refactor the [rps-challenge](https://github.com/Pi-hils/rps-challenge-1) from the weekend.
 - Understand what Database is and how it interact with SQL. 
 - Agile Introduction
+- Database Domain Modeling
+- Process Workshop
 
 ## New Concepts 
 - Introduction to Agile - User story

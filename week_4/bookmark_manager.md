@@ -10,6 +10,7 @@ _* - To view your table, \dt._
 
 _* - Ensure that you have http annd no back slash at the end of the link._
 
+_* - Display table information : TABLE bookmarks;_
 bookmark_manager=# SELECT * FROM bookmarks;
 This command displays all columns from the table "bookmarks" and shows us an empty table:
 
@@ -37,3 +38,4 @@ UPDATE bookmarks SET url = 'http://www.destroyallsoftware.com' WHERE url = 'http
 Input <bundle install> within terminal.
 
 [![Image from Gyazo](https://i.gyazo.com/f9e8678de777d4ace20eca9a9387a753.png)](https://gyazo.com/f9e8678de777d4ace20eca9a9387a753)
+

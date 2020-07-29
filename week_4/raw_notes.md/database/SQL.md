@@ -33,7 +33,7 @@ Creating a column
 [![Image from Gyazo](https://i.gyazo.com/95e31d8c5d402a1e64cb1c6c22e646fd.png)](https://gyazo.com/95e31d8c5d402a1e64cb1c6c22e646fd)
 
 _Footnote_
-*Decentralised Distributed newtwrok* : is when data can be stored across many computers that all have to coordinate with one another.
+*Decentralised Distributed netwrok* : is when data can be stored across many computers that all have to coordinate with one another.
 *[SQL cheatsheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
 
 # Creating our 1st database.
@@ -67,3 +67,57 @@ C.R.U.D
 you will use SQL to create, read (query), update and delete (CRUD) data in the table you created, inside your PostgreSQL database.
 (https://github.com/makersacademy/course/blob/master/bookmark_manager/walkthroughs/06.md)
 
+
+## Some Basic Exercise
+-**SELECT**
+[![Image from Gyazo](https://i.gyazo.com/9fa94d7c9955ec94b75587e18e83de01.png)](https://gyazo.com/9fa94d7c9955ec94b75587e18e83de01)
+
+1. SELECT population FROM world
+  WHERE name = 'Germany'
+
+2. Checking a list- The word **IN** allows us to check if an item is on a list.
+SELECT name, population FROM world
+  WHERE name IN ('Sweden', 'Norway', 'Denmark');
+
+3. **BETWEEN** allows range checking (range specified is inclusive of boundary values).
+SELECT name, area FROM world
+  WHERE area BETWEEN 200000 AND 250000
+
+-**LIKE**
+You can use _WHERE name LIKE_ 'B%' to find the countries that start with "B"
+*_The % is a wild-card - it can match any characters_
+1. SELECT name FROM world
+     WHERE name LIKE 'Y%'
+
+2. Find a specific letter at the end of a sentence.
+  SELECT name FROM world
+  WHERE name LIKE '%y'
+
+3. Find the words that contain the letter x (somewhere within)
+   SELECT name FROM world
+    WHERE name LIKE '%x%'
+
+4. Iceland, Switzerland end with land but are there others?
+    SELECT name FROM world
+      WHERE name LIKE '%land'
+
+5. Columbia starts with a C and ends with ia - there are two more like this.
+    SELECT name FROM world
+      WHERE name LIKE 'C%ia'
+6. Double letters
+  SELECT name FROM world
+    WHERE name LIKE '%oo%'
+
+7. India and Angola have an n as the second character. You can use the underscore as a single character wildcard.
+  SELECT name FROM world
+     WHERE name LIKE '_t%'
+  ORDER BY name
+
+8. Lesotho and Moldova both have two o characters separated by two other characters.
+Find the countries that have two "o" characters separated by two others.
+** SELECT name FROM world
+        WHERE name LIKE '%o__o%'
+
+9. Find the countries that have exactly four characters.
+  SELECT name FROM world
+    WHERE name LIKE '____' _(4 of _)_
