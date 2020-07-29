@@ -21,3 +21,4 @@ _A CRC Table_
 **<u>Pairing Session</u>**
 [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards)
 [![Image from Gyazo](https://i.gyazo.com/6dd2914d358f4c92ca65800c0ffa3227.png)](https://gyazo.com/6dd2914d358f4c92ca65800c0ffa3227)
+

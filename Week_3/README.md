@@ -13,7 +13,7 @@ Kickoff of the week
 
 ---
 ## Personal Goals
-1. GET & POST 
+1. [GET & POST](https://github.com/Pi-hils/Battle_Challenge).
 2. Understanding Request annd response cycle
 
 ## What I found challenging
