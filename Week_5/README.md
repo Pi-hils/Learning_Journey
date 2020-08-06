@@ -1,8 +1,12 @@
 # Week 5
 
-_My weekly journal to track my learning and development during my time at Makers Academy_
+
 ---
+_My weekly journal to track my learning and development during my time at Makers Academy_
+
 Kickoff of the week
+
+Week 5 will start learning about <u>JavaScript</u> using our knowledge from ruby to research topics and concepts essential in both languages, e.g Strings, Arrays, etc.
 ---
 
 # Week 5 Goals
@@ -18,7 +22,23 @@ Kickoff of the week
 4. Understanding Ajax and jQuery
 
 
-## Installing Jasmine
+
+## New Concepts 
+- Using Jasmine to TDD 
+- Use Strict
+- Console.log
+- Functions
+- Jquery
+- Ajax
+- Callbacks
+- Debugger (Developer's Tool -> Source)
+- Breakpoints
+- 'this'
+- Flow of conntrol
+- Jasmine
+- API
+
+ ## Installing Jasmine
 1. Create a directory
 2. Inside directory, type in terminal: 
   - bundle init _(this initiates a gemfile)_
@@ -29,13 +49,8 @@ Kickoff of the week
 3. Jasmine
 
 
-## New Concepts 
-
-
-
-## Week skills:
-
-## Preparation for the week
+## Preparation/installations
+[Jasmine standalone](https://github.com/Pi-hils/Learning_Journey/blob/master/Week_5/01_jasmine.md)
 
 ## Useful links
 - [Callback](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

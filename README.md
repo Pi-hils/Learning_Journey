@@ -1,6 +1,6 @@
 # **Hilda Amponsah - My Portfolio**
 ---
- This is my learning journey at Makers Academy.
+ This repository is used to document my learning journey at Makers Academy, 2020.
  
  It includes examples of my work, challenges completed, and the processes I have learned and developed while working towards the following goals.
  Click through to any of the following links for more detail. 
@@ -33,8 +33,10 @@
 - [Oyster Card](https://github.com/Pi-hils/Oyster_Card2)
 - [Takeaway Challenge](https://github.com/Pi-hils/takeaway-challenge)
 - [RPS-Challenge](https://github.com/Pi-hils/rps-challenge-1)
-
-
+- [Chitter Challenge](https://github.com/Pi-hils/chitter-challenge2)
+- [Airport - ruby](https://github.com/Pi-hils/airport_challenge)
+- [Airport - JavaScript](https://github.com/Pi-hils/Airport_JS/tree/master/jasmine-standalone-3.6.0%20(2))
+- [Thermostat](https://github.com/Pi-hils/Thermostat/tree/master/jasmine-standalone-3.6.0%20(3))
 ---
 <!--
 ## **Processes**
@@ -44,6 +46,8 @@
 ---
 -->
 ## **Weekly Goals**
+[Week 5](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_5)
+
 [Week 4](https://github.com/Pi-hils/Learning_Journey/tree/master/week_4)
 
 [Week 3](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_3)
