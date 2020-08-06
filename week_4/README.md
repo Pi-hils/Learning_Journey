@@ -46,4 +46,5 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 ## Helpful Resources
 - [RESTful](https://github.com/makersacademy/course/blob/master/pills/rest.md)
 - [Class and Instance Class](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/)
+- [Understanding Scope](https://www.sitepoint.com/understanding-scope-in-ruby/)
 - [Agile Modeling -Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)

@@ -39,3 +39,53 @@ Input <bundle install> within terminal.
 
 [![Image from Gyazo](https://i.gyazo.com/f9e8678de777d4ace20eca9a9387a753.png)](https://gyazo.com/f9e8678de777d4ace20eca9a9387a753)
 
+
+**ERRORS INCURED**
+
+**Issue:** Duplicate keys 
+**Solution** - url was missing hence the key was hard coded.
+
+Setup_test_database 
+**Issue:** truncate wasn't working(was not emptying the table). 
+**Solution:** There was a typo but first must cd into the spec file (or the folder that your file is in) and do the 
+```
+ruby setup_test_database.rb
+```
+This should now delete all your files.
+
+[![Image from Gyazo](https://i.gyazo.com/a80cbe09bb267a751ab1f72bdd39f065.png)](https://gyazo.com/a80cbe09bb267a751ab1f72bdd39f065)
+
+**Solution**: Error doesn't recognise 'url' as
+
+[![Image from Gyazo](https://i.gyazo.com/5d6e6c4d8194e32336e4480b16e97ee8.png)](https://gyazo.com/5d6e6c4d8194e32336e4480b16e97ee8)
+**Solution**:'< Sinatra::Base' was not added to the class in app.rb
+
+
+**To go over step 10()
+
+**ORM**
+**Object-relational mapping** (ORM, O/RM, and O/R mapping) in computer software is a programming technique for converting data between incompatible type systems in relational databases and object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language
+
+
+Wrapping database data in a Ruby object
+
+- **Adding a column to db
+```
+ALTER TABLE table_name ADD COLUMN new_column_name TYPE;
+
+ALTER TABLE bookmarks ADD COLUMN title VARCHAR(60);
+```
+
+To re-visit chapter 11.
+
+---
+# ORDER FOR TEST
+Updating Bookmarks
+As always, our flow is:
+
+Requirement
+User Story
+Feature Test
+Unit Tests
+Implementation
+Refactoring
