@@ -51,7 +51,7 @@ Week 4 will be about learning to build web apps that use a database. We'll reinf
 - Working in pairs to get other's understanding
 - Seeing the week 3(web) and week 4 (Database, sql) come together on a webpage.
 
-## Helpful Resources
+## Useful links
 - [RESTful](https://github.com/makersacademy/course/blob/master/pills/rest.md)
 - [Class and Instance Class](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/)
 - [Understanding Scope](https://www.sitepoint.com/understanding-scope-in-ruby/)

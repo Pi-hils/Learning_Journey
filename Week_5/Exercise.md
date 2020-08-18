@@ -49,6 +49,7 @@ Stack - execution context
 
 > If we step into a function, we push something onto stack
 > If we return from a funtion, we pop of from the top
+
 [![Image from Gyazo](https://i.gyazo.com/3ea4f046b7fd214455a93b9df07bea74.png)](https://gyazo.com/3ea4f046b7fd214455a93b9df07bea74)
 
 [![Image from Gyazo](https://i.gyazo.com/dddd617fb7d76a36eb131330a0d674e5.png)](https://gyazo.com/dddd617fb7d76a36eb131330a0d674e5)

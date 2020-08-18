@@ -5,7 +5,7 @@ _My weekly journal to track my learning and development during my time at Makers
 ---
 Kickoff of the week 
 ---
-## Weekly Goals
+## Week 3 Goals
 - Build a simple web app
 - Follow an effective debugging process for web applications
 - Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
@@ -21,7 +21,7 @@ Kickoff of the week
 - How to link my feature test with my controller and when it was required, e.g in the [rps-challenge](https://github.com/Pi-hils/rps-challenge-1), I found it hard to get my app.rb to connect with my results page.
 
 
-## What I found enjoyable during the week
+## What I found enjoyable
 - Learning about the web- it's a new and vital area.
 - Learning how to debug the web.
 - Customising pages to make it my own.

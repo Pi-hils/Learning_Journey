@@ -17,7 +17,8 @@
 2. Scroll down to Developers Tool
 3. Select Developer's Tool
 <br>
- <u>_ALTERNATIVELY_</u>
+
+<u>_ALTERNATIVELY_</u>>
 (Mac) cmd + opt + j
 (Windows) ctl + shift + j
 

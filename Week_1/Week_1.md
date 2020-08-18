@@ -50,3 +50,9 @@ _Thins I've learnt or improved, and links to examples._
 
 
 [Weekly notes]()
+
+
+## Minimum content to have in your README
+1. What is the program doing
+2. How to run and install
+3. How to run the test

@@ -21,20 +21,21 @@ Kickoff the week.
 
 3. Create class diagram using [diagram.io](https://app.diagrams.net/). _[Practical:]_
     - [Class_diagram](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
-    
-    [![Image from Gyazo](https://i.gyazo.com/0bcca27d1f52894483b7ae245da44d3b.png)](https://gyazo.com/0bcca27d1f52894483b7ae245da44d3b)
 
-4. Attend first Process workshop.
 
----
-## Feedback from Pairs during Paring session 
-
-## Feedback from Coach after Process-worshop
-
+4. Attend first Process workshop
 
 ---
 ## What I found challenging
 - Understanding the concept of Dependency Inverion and implmenting it within my code. 
 - Understanding how to use instances.
+
+
+## What I found enjoyable
+- Working together with a pair partner.
+- Creating a class diagram
+- Completing my first process workshop.
+
+## Useful links
 
 
