@@ -46,3 +46,14 @@ var shoppinng = new ShoppingDataType;
 console.log(shopping.getShoppingList());
 
 
+
+
+## Note
+* When you create a variable outside of your function, ensure you have a semi-colon (;), else you will get an error that whatver your var is equal to isn't a function
+
+[![Image from Gyazo](https://i.gyazo.com/faff7baf38dc69eeb988cc1a974785ae.png)](https://gyazo.com/faff7baf38dc69eeb988cc1a974785ae)
+_Without a semi-colon(;) after 'hello'_
+
+
+[![Image from Gyazo](https://i.gyazo.com/bd9b9488004d9dfe3b90908f0e8b1c22.png)](https://gyazo.com/bd9b9488004d9dfe3b90908f0e8b1c22)
+_With semi-colon(;) after var._
