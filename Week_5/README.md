@@ -19,7 +19,8 @@ Week 5 will start learning about <u>JavaScript</u> using our knowledge from ruby
 2. Pair on working on the [thermostat -business log](https://github.com/Pi-hils/Thermostat/tree/master/jasmine-standalone-3.6.0%20(3))
 3. Read about jQuery and include it in my [work](https://github.com/Pi-hils/Thermostat/tree/master/jasmine-standalone-3.6.0%20(3)).
 4. [Callback](https://github.com/Pi-hils/Callbacks_week5_workshop)
-4. Understanding Ajax and jQuery
+5. Understanding Ajax and jQuery
+6. Asynchronous Applicationn
 
 
 
@@ -54,3 +55,11 @@ Week 5 will start learning about <u>JavaScript</u> using our knowledge from ruby
 
 ## Useful links
 - [Callback](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+## Useful link
+- [PSQL Essential TO-KNOW](https://github.com/makersacademy/course/blob/master/bookmark_manager/learning_objectives.md)
+- [SQL Wildcard](https://www.w3schools.com/sql/sql_wildcards.asp)
+-
+
+## Useful link
+-[Dead simple unnderstanding of Asynchronous Development](https://www.crondose.com/2016/11/dead-simple-explanation-asynchronous-development/)

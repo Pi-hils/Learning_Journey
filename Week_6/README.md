@@ -23,3 +23,6 @@ This week, we will be building a Makers version of Airbnb within a team.
 2. Revisit some UI using HTML, CSS, Bootstrap.
 3. Revisit PSQL.
 
+## Useful Link
+- [Class Responsibility Collaborator(CRC)](http://agilemodeling.com/artifacts/crcModel.htm#Figure4CRCModel)
+- 

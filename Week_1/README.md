@@ -1,12 +1,20 @@
 # Week 1
 
-_A weekly journal to document my progress and the work I am doing to achieve my goals._
+
+---
+_My weekly journal to track my learning and development during my time at Makers Academy_
+
+Kickoff of the week 
+
+Week 1, we will be introduced to bst practices, learnning a new language <u>Ruby</u> and by using our knowledge from ruby to research topics and concepts essential to test drive a code, e.g Strings, Arrays, etc
+
+---
 
 [Weekly Outline](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
 ---
 
-## Goals
+# Week 1 Goals
 
 1. Test-drive a simple program using objects and methods.
 
@@ -27,7 +35,18 @@ _A weekly journal to document my progress and the work I am doing to achieve my 
 
     -[Boris Bikes](https://github.com/Pi-hils/Boris_Bikes)
 
----
+## Personnal Goals
+1. Read about Rspec and TDD to get an idea of what they are/mean.
+2. Complete a practical on TDD using RSpec.
+3. Follow a Driver-Navigator style of programming each day with a new person in my cohort.
+4. Markdown language on github.
+4. Read up on what Object Oriented Programming is.
+5. What is encapsulation?
+6. Attend my first debugging workshop.
+7. Read more on encapsulation.
+8. Practice setting up repositories on github.
+9. Go over Arrays in Ruby.
+
 
 ## What I've learned
 _Thins I've learnt or improved, and links to examples._
@@ -48,11 +67,12 @@ _Thins I've learnt or improved, and links to examples._
 
 ---
 
+## Useful link
+- [Object Oriented Programming](https://www.youtube.com/watch?v=pTB0EiLXUC8&t=169s)
+- [RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
+- [Array](http://zetcode.com/lang/rubytutorial/arrays/)
+- [Beginner's Guide to ReadMe](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- [Markdown](https://www.youtube.com/watch?v=pTCROLZLhDM)
 
-[Weekly notes]()
 
 
-## Minimum content to have in your README
-1. What is the program doing
-2. How to run and install
-3. How to run the test

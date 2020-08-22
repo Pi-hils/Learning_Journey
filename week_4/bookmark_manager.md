@@ -81,11 +81,11 @@ To re-visit chapter 11.
 ---
 # ORDER FOR TEST
 Updating Bookmarks
-As always, our flow is:
+The flow is:
 
-Requirement
-User Story
-Feature Test
-Unit Tests
-Implementation
-Refactoring
+- Requirement
+- User Story
+- Feature Test
+- Unit Tests
+- Implementation
+- Refactoring

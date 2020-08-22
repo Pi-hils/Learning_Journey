@@ -25,3 +25,12 @@ Start off small, little by little, and hone in on the important information.
 ## [Intro to User story](https://github.com/makersacademy/course/blob/master/pills/user_stories.md)
 User stories comprise of three sections: _Stakeholder, Motivation and Task_
 [![Image from Gyazo](https://i.gyazo.com/04ad13cc7993af4e3ddf86282b085b1e.png)](https://gyazo.com/04ad13cc7993af4e3ddf86282b085b1e)
+
+---
+
+## README Essential
+
+Minimum content to have in your README
+1. What is the programme doing.
+2. How to run and install.
+3. How to run the test.

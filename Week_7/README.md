@@ -11,6 +11,11 @@ Kickoff of the week
 [Main goal](https://github.com/makersacademy/course/tree/master/further_javascript)
 
 # Personal Goals
+- Learn skeleton of ES5 syntax and understand why they are there.
+- Attennd afternoon challenge and work in a pair.
+- Read up on DOM and watch a youtube video on how to implement it.
+- 
+
 
 
 ## Concepts
@@ -20,3 +25,9 @@ Kickoff of the week
 - Ajax.
 - Frontend templating.
 - Frontend routing.
+
+## What I found challenging
+
+
+
+## What I found enjoyable

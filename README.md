@@ -33,6 +33,7 @@
 - [Oyster Card](https://github.com/Pi-hils/Oyster_Card2)
 - [Takeaway Challenge](https://github.com/Pi-hils/takeaway-challenge)
 - [RPS-Challenge](https://github.com/Pi-hils/rps-challenge-1)
+- [SQL ZOO](https://sqlzoo.net/)
 - [Chitter Challenge](https://github.com/Pi-hils/chitter-challenge2)
 - [Airport - ruby](https://github.com/Pi-hils/airport_challenge)
 - [Airport - JavaScript](https://github.com/Pi-hils/Airport_JS/tree/master/jasmine-standalone-3.6.0%20(2))

@@ -18,12 +18,12 @@ Kickoff the week.
     - [Takeaway Challenge](https://github.com/Pi-hils/takeaway-challenge)
 
 2. Take notes on and implement dependency injection within my code.
-
 3. Create class diagram using [diagram.io](https://app.diagrams.net/). _[Practical:]_
     - [Class_diagram](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
-
-
 4. Attend first Process workshop
+5. More Encapsulation.
+6. Go over Ruby methodology.
+7. Setup a feedback form to get feedback after every pairing session.
 
 ---
 ## What I found challenging
@@ -37,5 +37,8 @@ Kickoff the week.
 - Completing my first process workshop.
 
 ## Useful links
-
-
+- [Mocking, Spies](https://github.com/makersacademy/course/blob/master/pills/doubles.md)
+- [Encapsulation](http://www.teachingtree.co/watch/encapsulation)
+- [Arrays and Hashes Ruby](http://www.teachingtree.co/teachers/Michael%20Koby)
+- [Array](http://zetcode.com/lang/rubytutorial/arrays/)
+- [RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)

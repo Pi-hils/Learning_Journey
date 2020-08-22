@@ -1,8 +1,9 @@
-# Week 3
+## Week 3
+
 
 ---
-_My weekly journal to track my learning and development during my time at Makers Academy._
----
+_My weekly journal to track my learning and development during my time at Makers Academy_
+
 Kickoff of the week 
 ---
 ## Week 3 Goals
@@ -15,6 +16,7 @@ Kickoff of the week
 ## Personal Goals
 1. [GET & POST](https://github.com/Pi-hils/Battle_Challenge).
 2. Understanding Request annd response cycle
+3. What is Capybara?
 
 ## What I found challenging
 - Understanding the use of global variable
@@ -26,3 +28,7 @@ Kickoff of the week
 - Learning how to debug the web.
 - Customising pages to make it my own.
 - Working and learning from people within my cohort.
+
+## Useful Link
+- [Capybara cheatsheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
+-
