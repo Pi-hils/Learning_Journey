@@ -1,0 +1,1 @@
+https://github.com/makersacademy/course/blob/master/pills/activerecord.md
