@@ -1,4 +1,10 @@
-
+## New Git
+```
+$ git add .
+$ git commit -m '[everything you have done]'
+$ git remote add origin git@github.com:username/new_repo
+$ git push -u origin master
+```
 
 ## Create a new branch
 To create a new branch on your local machine/switch to a new branch, you must ensure you have the <u>latest version</u> of your files on your local machine. To do this, first type:
