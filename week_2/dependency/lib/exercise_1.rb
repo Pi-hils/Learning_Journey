@@ -1,3 +1,22 @@
+#Option 1
+class Spanish
+  def greet
+    'Hola amiga, como estas?'
+  end
+end
+
+class Languages
+  # injecting dependenncy(injecting the arguement)
+  def greeter
+    spanish = Spanish.new
+  "In this language, we say hello, how are you like this:#{spanish.greet}"
+  end
+end
+
+lan = Languages.new
+p lan.greeter
+
+#Option 2
 class Spanish
   def greet
     'Hola amiga, como estas?'
