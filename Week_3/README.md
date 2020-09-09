@@ -31,4 +31,3 @@ Kickoff of the week
 
 ## Useful Link
 - [Capybara cheatsheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
--
