@@ -13,10 +13,7 @@ Kickoff of the week
 # Personal Goals
 - Learn skeleton of ES5 syntax and understand why they are there.
 - Attennd afternoon challenge and work in a pair.
-- Read up on DOM and watch a youtube video on how to implement it.
-- 
-
-
+- Read up on DOM and watch a youtube video on how to implement it. 
 
 ## Concepts
 - Frontend, single page web apps.
