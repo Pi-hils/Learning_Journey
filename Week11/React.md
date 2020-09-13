@@ -27,4 +27,37 @@ When you want to use 'class', in React, it is <u>className</u> instead.
 <div> </div> from where you deleted the elements. JSX should always ebe wrapped in at least one element.
 
 <u>Naming convention in React</u>
-Always name them with a capital and CamelCases if two words
+Always name them with a capital and CamelCases if two word
+
+## Startinng
+1. Create a new folder in scr(starting with a capital) and create your js file with camel case e.g HelloWorld.js. 
+2. In js file, you will import React from 'react' on line 1
+3. Insert your functionality and name of file, ie.
+```
+import React from 'react';
+
+function HelloWorld(){
+  return(
+    <h1>
+    Hello Hils
+    </h1>
+  )
+}
+ #export you file
+ export default HelloWorld;
+ ```
+ 4. Go into your App.js and import your HelloWrold file, <u>state the path</u>
+ 5. We use props as an argument if we wish to interpolate in HelloWorld.js
+
+ <u>Class bases in HelloWorld</u>
+ ```
+class HelloWorld extends React.Component{
+  render(){
+    return(
+      <h1>Hello {this.props.name}</h1>
+    )
+  }
+}
+ ```
+ *Notice how there is no 's' at the end of component although the file name is saved as Component.
+ Use 'this' keyword with .props.name
