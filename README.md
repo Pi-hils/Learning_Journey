@@ -28,6 +28,10 @@
     
 ---
 ## **Projects**
+- [spotiPhyte](https://github.com/Pi-hils/spotiPhyte-1)
+- [Acebook](https://github.com/Pi-hils/Acebook)
+- [Makersbnb](https://github.com/Pi-hils/makersbnb)
+- [Rails blog](https://github.com/Pi-hils/Rails_Project1/tree/master/app)
 - [Bookmark Manager](https://github.com/Pi-hils/Bookmark_Manager)
 - [Battle Challenge](https://github.com/Pi-hils/Battle_Challenge)
 - [Oyster Card](https://github.com/Pi-hils/Oyster_Card2)
@@ -39,14 +43,16 @@
 - [Airport - JavaScript](https://github.com/Pi-hils/Airport_JS/tree/master/jasmine-standalone-3.6.0%20(2))
 - [Thermostat](https://github.com/Pi-hils/Thermostat/tree/master/jasmine-standalone-3.6.0%20(3))
 ---
-<!--
-## **Processes**
-[Class Extraction](https://github.com/mattTea/Portfolio/blob/master/processes/class_extraction.md)Oystercard
 
-
----
--->
 ## **Weekly Goals**
+[Week 11&12](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_11%2612)
+
+[Week 8&9](https://github.com/Pi-hils/Acebook)
+
+[Week 7](https://github.com/Pi-hils/javascript-note-app)
+
+[Week 6](https://github.com/Pi-hils/makersbnb)
+
 [Week 5](https://github.com/Pi-hils/Learning_Journey/tree/master/Week_5)
 
 [Week 4](https://github.com/Pi-hils/Learning_Journey/tree/master/week_4)
