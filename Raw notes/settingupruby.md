@@ -16,6 +16,8 @@ gem 'capybara'
 
 ### Set up RSpec
 ```
+# in commmandline
+
 $ rspec --init
 ```
 
@@ -53,7 +55,7 @@ The directory layout
 └── spec
     ├── features
     └── spec_helper.rb
-    
+
 
 ### Getting Capybara to talk to Sinatra
 Start from spec_helper.rb
