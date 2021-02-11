@@ -43,7 +43,7 @@ function App() {
     <button onClick=(alertingNames)>Click Me</button>
     <br></br>
     <input type='text' />
-    <br></br>
+    <hr />
     <h1>Hello World, my name is {myName}</h1>
     </div>
   );
