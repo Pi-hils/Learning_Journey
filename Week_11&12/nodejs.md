@@ -1,4 +1,4 @@
-What is it?
+<h2>What is it?</h2>
 Node is not a langugae but runtime that allows javascript to run on a server. A way for devs to write a full stack on a server
 
 ## How it works
@@ -17,13 +17,13 @@ If it is not installed, install.
 
 #### Step Three
 <u>Hello World</u><br>
-> In terminnal, type `node ` - this allows us to go on REPL mode and type javascript there like a console
-> To exit, press ^C again or ^D or type .exit
+> In terminnal, type `node ` - this allows us to go on REPL mode and type javascript there like a console<br>
+> To exit, press ^C again or ^D or type .exit<br>
 > Create an index.js file(in root) and write `console.log('Hello World');, in terminal, run `node .`(depending where your file is) and it should execute what you had written in index
 
 #### Step Four
 <u>Know your runtime</u><br>
- Node.js works similarly to how javascript is run on browser but there are certain differences. Example,1. Node has a lot of identifiers, one is `console`, used to log out code into the console.
+ Node.js works similarly to how javascript run on browser but there are certain differences. Example, 1. Node has a lot of identifiers, one is `console`, used to log out code into the console.
  2. `global`: available throughout the entire node process e.g
  ```
  console.log(global.luckyNum);
